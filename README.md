@@ -3,3 +3,4 @@
 3. templete_matching.py: 이미지 불러와서 물이 있는지 없는지 검사하는 코드
 4. indy_5_ref.png: 5번 indy의 물이 없는 reference templete
 5. indy_6_ref.png: 6번 indy의 물이 없는 reference templete
+6. indy_capture.py: indy_eye로 캡처한 이미지 저장하는 코드
